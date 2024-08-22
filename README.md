@@ -14,7 +14,7 @@ I want to become a developer who can help people.</h3>
 
 <br>
 
-<h3 align="left">Link :</h3>
+### Link :
 - [velog](https://velog.io/@hanseong/posts)<br>
 - [bento](https://bento.me/hanseong)
   

@@ -2,15 +2,6 @@
 <div><h3 align="center">안녕하세요 백엔드를 공부하고 있는 임한성입니다.</h3>
 <div><h3 align="center">사람들에게 도움을 줄 수 있는 개발자가 되고 싶습니다.</h3>
 <br>
-<div><h3 align="center">💡'천재는 1% 영감과 99%의 노력으로 만들어진다'</h3>
-
-<hr>
-
-<div><h3 align="center">Hello, my name is Lim Han-seong and I am studying backend.</h3>
-<div><h3 align="center">
-I want to become a developer who can help people.</h3>
-<br>
-<div><h3 align="center">💡'Genius is 1% inspiration, 99% perspiration.'</h3>
 
 <br>
 
